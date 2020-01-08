@@ -9,7 +9,7 @@
   }
 }
 body {
-  background-image:url(../image/2.jpg); 
+  background-image:url(../image/1.jpg); 
   background-size: 100%;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -23,7 +23,7 @@ pre {
   overflow: auto;
 }
 .content {
-  background-color: rgba(255,255,255,.4);
+  background-color: rgba(255,255,255,.8);
   box-shadow: 0 0 1rem #fff;
 }
 .masthead {
